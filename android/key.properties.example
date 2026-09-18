@@ -1,0 +1,5 @@
+# Copy to android/key.properties and replace values for release signing.
+storePassword=CHANGE_ME
+keyPassword=CHANGE_ME
+keyAlias=upload
+storeFile=/absolute/path/to/upload-keystore.jks
