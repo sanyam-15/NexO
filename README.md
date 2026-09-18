@@ -10,7 +10,7 @@
 [![Dart](https://img.shields.io/badge/Dart-3.4+-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 [![Material 3](https://img.shields.io/badge/Material_3-Expressive-6750A4?style=for-the-badge&logo=materialdesign&logoColor=white)](https://m3.material.io)
 [![License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)](./LICENSE)
-[![CI](https://img.shields.io/github/actions/workflow/status/sanyam-15/NexO/ci.yml?branch=main&style=for-the-badge&label=CI&logo=github)](https://github.com/sanyam-15/NexO/actions)
+
 
 <br>
 
