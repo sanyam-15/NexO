@@ -1,0 +1,13 @@
+{
+  "@@locale": "en",
+  "appTitle": "Nexo",
+  "navHome": "Home",
+  "navAnalytics": "Analytics",
+  "navSettings": "Settings",
+  "language": "Language",
+  "languageSystem": "System",
+  "languageSpanish": "Spanish",
+  "languageEnglish": "English",
+  "save": "Save",
+  "cancel": "Cancel"
+}
